@@ -17,6 +17,4 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=ekayahya&show_icons=true&locale=en&layout=compact" alt="ekayahya" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ekayahya&show_icons=true&locale=en" alt="ekayahya" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ekayahya&" alt="ekayahya" /></p>
