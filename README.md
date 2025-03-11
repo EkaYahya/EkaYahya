@@ -3,7 +3,8 @@
 <h1 align="center">Hi 👋, I'm Eka Yahya Iskandar Syah</h1>
 <h3 align="center">A passionate frontend developer from Land of Java</h3>
 
-<img align="right" alt="coding" width="400" src="https://github.com/user-attachments/assets/de1c60c6-bd4c-4c54-9de2-d4b2862c226b">
+<img align="right" alt="coding" width="400" src="https://user-images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif">
+
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ekayahya&label=Profile%20views&color=0e75b6&style=flat" alt="ekayahya" /> </p>
 
 <h3 align="left">Connect with me:</h3>
