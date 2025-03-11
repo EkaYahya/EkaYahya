@@ -1,4 +1,4 @@
-![logo](https://github.com/user-attachments/assets/fe8b427d-2734-4fc1-b29e-76dda5eb3419)![logo](https://github.com/EkaYahya/EkaYahya/blob/main/Github%20Banner.png)
+![logo](https://github.com/EkaYahya/EkaYahya/blob/main/Github%20Banner.png)
 
 <h1 align="center">Hi 👋, I'm Eka Yahya Iskandar Syah</h1>
 <h3 align="center">A passionate frontend developer from Land of Java</h3>
